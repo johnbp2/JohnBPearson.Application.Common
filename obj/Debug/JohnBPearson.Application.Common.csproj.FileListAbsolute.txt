@@ -1,0 +1,9 @@
+S:\source\repos\Gestures\JohnBPearson.KeyBindingButler.Common\bin\Debug\JohnBPearson.Application.Common.dll
+S:\source\repos\Gestures\JohnBPearson.KeyBindingButler.Common\bin\Debug\JohnBPearson.Application.Common.pdb
+S:\source\repos\Gestures\JohnBPearson.KeyBindingButler.Common\bin\Debug\log4net.dll
+S:\source\repos\Gestures\JohnBPearson.KeyBindingButler.Common\bin\Debug\log4net.pdb
+S:\source\repos\Gestures\JohnBPearson.KeyBindingButler.Common\obj\Debug\JohnBPearson.Application.Common.csproj.AssemblyReference.cache
+S:\source\repos\Gestures\JohnBPearson.KeyBindingButler.Common\obj\Debug\JohnBPearson.Application.Common.csproj.CoreCompileInputs.cache
+S:\source\repos\Gestures\JohnBPearson.KeyBindingButler.Common\obj\Debug\JohnBPea.D62C81A7.Up2Date
+S:\source\repos\Gestures\JohnBPearson.KeyBindingButler.Common\obj\Debug\JohnBPearson.Application.Common.dll
+S:\source\repos\Gestures\JohnBPearson.KeyBindingButler.Common\obj\Debug\JohnBPearson.Application.Common.pdb
