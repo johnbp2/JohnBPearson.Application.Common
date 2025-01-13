@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "S:\\source\\repos\\Gestures\\JohnBPearson.KeyBindingButler.Common\\JohnBPearson.Application.Common.csproj": {}
+    "S:\\source\\repos\\JohnBPearson.Application.Common\\JohnBPearson.Application.Common.csproj": {}
   },
   "projects": {
-    "S:\\source\\repos\\Gestures\\JohnBPearson.KeyBindingButler.Common\\JohnBPearson.Application.Common.csproj": {
+    "S:\\source\\repos\\JohnBPearson.Application.Common\\JohnBPearson.Application.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "S:\\source\\repos\\Gestures\\JohnBPearson.KeyBindingButler.Common\\JohnBPearson.Application.Common.csproj",
+        "projectUniqueName": "S:\\source\\repos\\JohnBPearson.Application.Common\\JohnBPearson.Application.Common.csproj",
         "projectName": "JohnBPearson.Application.Common",
-        "projectPath": "S:\\source\\repos\\Gestures\\JohnBPearson.KeyBindingButler.Common\\JohnBPearson.Application.Common.csproj",
+        "projectPath": "S:\\source\\repos\\JohnBPearson.Application.Common\\JohnBPearson.Application.Common.csproj",
         "packagesPath": "S:\\packages\\NuGet\\cache",
-        "outputPath": "S:\\source\\repos\\Gestures\\JohnBPearson.KeyBindingButler.Common\\obj\\",
+        "outputPath": "S:\\source\\repos\\JohnBPearson.Application.Common\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [

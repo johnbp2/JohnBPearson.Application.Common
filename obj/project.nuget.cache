@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wZSW2yiVYkk=",
+  "dgSpecHash": "RSGYojqV8lY=",
   "success": true,
-  "projectFilePath": "S:\\source\\repos\\Gestures\\JohnBPearson.KeyBindingButler.Common\\JohnBPearson.Application.Common.csproj",
+  "projectFilePath": "S:\\source\\repos\\JohnBPearson.Application.Common\\JohnBPearson.Application.Common.csproj",
   "expectedPackageFiles": [
     "S:\\packages\\NuGet\\cache\\log4net\\3.0.3\\log4net.3.0.3.nupkg.sha512"
   ],
