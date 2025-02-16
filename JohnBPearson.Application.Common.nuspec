@@ -11,7 +11,9 @@
     <projectUrl>https://github.com/johnbp2/JohnBPearson.Application.Common</projectUrl>
     <description>Application.Common</description>
     <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
-    <copyright>$copyright$</copyright>
+    <copyright>$copyright$</copyright> 
     <tags>Application.Common</tags>
+
   </metadata>
+
 </package>

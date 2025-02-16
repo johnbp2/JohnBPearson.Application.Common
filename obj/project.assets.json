@@ -150,6 +150,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "S:\\packages\\feeds\\nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

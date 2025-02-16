@@ -16,3 +16,4 @@ S:\source\repos\JohnBPearson.Application.Common\obj\Release\JohnBPearson.Applica
 S:\source\repos\JohnBPearson.Application.Common\obj\Release\JohnBPea.D62C81A7.Up2Date
 S:\source\repos\JohnBPearson.Application.Common\obj\Release\JohnBPearson.Application.Common.dll
 S:\source\repos\JohnBPearson.Application.Common\obj\Release\JohnBPearson.Application.Common.pdb
+S:\source\repos\JohnBPearson.Application.Common\bin\Release\docs\Readme.md
